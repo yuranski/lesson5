@@ -1,0 +1,112 @@
+@media screen and (max-width: 480px) {
+
+
+
+
+
+
+    .wrapper{
+        padding: 0 0 0 20px;
+    }
+
+    .header_top_grid{
+        column-gap: 0;
+    }
+
+    .header_buttons_nav_menu{
+        margin-left: 100px;
+    }
+
+
+    .text-1{
+        max-width: 350px;
+        font-size: 68px;
+    }
+
+    .text-2{
+        max-width: 350px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.nav_menu_item,*/
+/*.block_lvl_2__right,*/
+/*.block_lvl_3__right,*/
+/*.button_talkToUs,*/
+/*.text-3,*/
+/*.button_expert,*/
+/*.text-4,*/
+/*.text-5,*/
+/*.text-6,*/
+/*.text-7,*/
+/*.text-8,*/
+/*.text-9,*/
+/*.text-10,*/
+/*.text-11,*/
+/*.text-12,*/
+/*.text-13,*/
+/*.text-14,*/
+/*.text-15,*/
+/*.text-16,*/
+/*.text-17,*/
+/*.block_lvl_7-1,*/
+/*.indentation_block1,*/
+/*.indentation_text3,*/
+/*.indentation_text2,*/
+/*.indentation_text1,*/
+/*.button_get_started,*/
+/*.button_view_hub,*/
+/*.button_discover_what_we_do,*/
+/*.button_talkToUs,*/
+/*.button_expert,*/
+/*.block_lvl_5-1,*/
+/*.block_lvl_4,*/
+/*.block_lvl_5,*/
+/*.block_lvl_4-1,*/
+/*.block_lvl_3,*/
+/*.block_lvl_6,*/
+/*.block_lvl_7,*/
+/*.block_lvl_7-1,*/
+/*.block_lvl_8,*/
+/*.block_lvl_8-1,*/
+/*.block_lvl_8-2,*/
+/*.block_lvl_8-3,*/
+/*.block_lvl_8-4,*/
+/*.block_lvl_8-5,*/
+/*.block_lvl_8-6,*/
+/*.block_lvl_8-7,*/
+/*.block_lvl_8-8,*/
+/*.block_lvl_8-9,*/
+/*.block_lvl_8-10,*/
+/*.block_lvl_8-11,*/
+/*.block_lvl_8-12{*/
+/*    display: none;*/
+/*}*/

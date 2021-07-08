@@ -1,0 +1,333 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.dispFlex {
+    display: flex;
+}
+.align-center {
+    align-items: center;
+}
+.just-center {
+    justify-content: center;
+}
+.wrapper {
+    padding: 0 145px;
+}
+.header_top_grid {
+    column-gap: 350px;
+}
+.header_top_nav_menu {
+    column-gap: 22px;
+}
+.block_lvl_1 {
+    height: 100px;
+}
+.header_buttons_nav_menu {
+    margin-left: 250px;
+    column-gap: 18px;
+}
+.nav_menu_item a {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    text-decoration: none;
+}
+.block_lvl_3{
+    margin-top: 50px;
+}
+.block_lvl_4-1{
+    margin-top: 50px;
+    column-gap: 200px;
+}
+.block_lvl_5{
+    background-color: #FDECED;
+    padding: 50px 0
+}
+
+.block_lvl_5-1{
+    column-gap: 200px;
+}
+
+.block_lvl_6{
+    margin-top: 100px;
+    column-gap: 600px;
+    margin-bottom: 100px;
+}
+.block_lvl_7{
+    column-gap: 400px;
+}
+.block_lvl_7-1{
+    margin: 100px 0 100px 0;
+
+}
+.block_lvl_8 {
+    background: #302E3F;
+
+}
+.block_lvl_8-1{
+    margin-top: 45px;
+}
+
+.block_lvl_8-2{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.block_lvl_8-3{
+    margin-top: 12px;
+}
+.block_lvl_8-4{
+    margin-top: 8px;
+}
+.block_lvl_8-5{
+    column-gap: 200px;
+}
+.block_lvl_8-6{
+    margin-top: 181px;
+}
+.block_lvl_8-8{
+    margin-top: 50px;
+}
+.block_lvl_8-9{
+    margin-top: 80px;
+}
+.block_lvl_8-10{
+    column-gap: 100px;
+    padding-bottom: 50px;
+}
+.block_lvl_8-11{
+    margin-left: 600px;
+}
+
+
+
+.maxWith{
+    max-width: 400px;
+}
+.block_lvl_4{
+    margin-top: 100px;
+}
+
+
+
+.button_login {
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: white;
+    border-radius: 100px;
+    padding: 13px 25px;
+}
+.button_expert {
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: black;
+    border-radius: 100px;
+    padding: 13px 25px;
+}
+.button_talkToUs {
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: black;
+    border-radius: 100px;
+    padding: 13px 25px;
+    margin-top: -25px;
+    position: absolute;
+}
+.button_discover_what_we_do {
+    color: black;
+    border: 1px solid #F7B2B7;
+    box-sizing: border-box;
+    background-color: #F7B2B7;
+    border-radius: 100px;
+    padding: 13px 25px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 25px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.button_view_hub {
+    color: black;
+    border: 1px solid #F7B2B7;
+    box-sizing: border-box;
+    background-color: #F7B2B7;
+    border-radius: 100px;
+    padding: 13px 25px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 25px;
+}
+.button_get_started {
+    color: white;
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: black;
+    border-radius: 100px;
+    padding: 13px 25px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 25px;
+    font-size: 18px;
+}
+
+
+
+
+.indentation_text1{
+    margin-top: 45px;
+}
+.indentation_text2{
+    padding: 27px 0 79px 0;
+}
+.indentation_text3{
+    padding: 70px 0 130px 0;
+}
+.indentation_block1{
+    column-gap: 350px;
+}
+
+.block_lvl_7-1 {
+    background: #8BD4D6;
+    border-radius: 20px;
+    padding: 90px;
+    column-gap: 700px;
+}
+
+
+.text-1{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 77px;
+    line-height: 83px;
+}
+.text-2{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 31px;
+}
+.text-3{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+}
+.text-4{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 58px;
+}
+.text-5{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 36px;
+}
+.text-6{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+}
+.text-7 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 36px;
+}
+.text-8 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+}
+.text-9 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 58px;
+    line-height: 58px;
+}
+.text-10 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 27px;
+    line-height: 36px;
+}
+.text-11 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 58px;
+}
+.text-12 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 31px;
+}
+.text-13 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 56px;
+}
+.text-14 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 31px;
+}
+.text-15 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 36px;
+    color: white;
+}
+.text-16 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+.text-17 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    color: #C5E9EA;
+}
+
