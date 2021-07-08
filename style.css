@@ -39,6 +39,7 @@
 .block_lvl_4-1{
     margin-top: 50px;
     column-gap: 200px;
+    display: flex;
 }
 .block_lvl_5{
     background-color: #FDECED;
@@ -47,12 +48,14 @@
 
 .block_lvl_5-1{
     column-gap: 200px;
+    display: flex;
 }
 
 .block_lvl_6{
     margin-top: 100px;
     column-gap: 600px;
     margin-bottom: 100px;
+    display: flex;
 }
 .block_lvl_7{
     column-gap: 400px;
